@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^$ https://portfolio.dallah.co.ke/ [R=301,L]
