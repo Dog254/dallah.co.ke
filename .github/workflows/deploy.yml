@@ -19,7 +19,7 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./
-          server-dir: /dallah.co.ke/
+          server-dir: dallah.co.ke/
           exclude: |
             **/.git*
             **/.git*/**
